@@ -4,7 +4,7 @@
 * 🌱 Front-End é para onde meu caminho segue! A cada dia aprimoro um pouco mais as minhas skills! 🤓
 * 📚 Tecnologia da informação - UNIVESP. 
 * 👯 Procuro atualmente por uma posição como Dev. Jr! 
-* 📫 Você consegue entrar em contato comigo através do meu Email[mailto:] ou (LinkedIn)[https://www.linkedin.com/in/alves-claudio/]
+* 📫 Você consegue entrar em contato comigo através do meu [Email](mailto:claudiocine@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/alves-claudio/)
 * 😄 Pronouns: Ele / Dele
 * ⚡ Fun Fact: Gosto muito de comer ferro e levantar sushi, ou algo assim. 
 
