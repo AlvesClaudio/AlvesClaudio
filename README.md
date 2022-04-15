@@ -1,4 +1,4 @@
-Olá, sou o Claudio! 🎱
+###Olá, sou o Claudio! 🎱
 
 * 🔭 Trabalho como suporte técnico em uma gigante do cenário de filmes, animações e, recentemente, streaming.
 * 🌱 Front-End é para onde meu caminho segue! A cada dia aprimoro um pouco mais as minhas skills! 🤓
